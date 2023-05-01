@@ -4,7 +4,7 @@
 
 - <b>Windows Installation and Configuration</b>
   - [Create a Raid Array](https://github.com/mosesestrada/RaidArray)
-  - [osTicket: Post-Installation Configuration](https://github.com/mosesestrada/osTicketPostConfiguration)
+  - [Creating Organizational Units](https://github.com/mosesestrada/organizationalunits)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/mosesestrada/osTicket-LifeCycle-Examples)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/mosesestrada/Configuring-On-premises-Active-Directory-within-Azure-VMs)
