@@ -1,4 +1,4 @@
-<h1>Hi, I'm Moses! <br/><a href="https://www.linkedin.com/in/mosesestrada77/"> an IT Professional</a></h1>
+<h1>Hi, I'm Moses! <a href="https://www.linkedin.com/in/mosesestrada77/"> an IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
