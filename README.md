@@ -4,6 +4,7 @@
 
 - <b>Windows Installation and Configuration</b>
   - [Create a Raid Array](https://github.com/mosesestrada/RaidArray)
+  - [Create a Virtual Machine in Hyper-V](https://github.com/mosesestrada/Virtualmachine)
 - <b>Active Directory</b>
   - [Creating Organizational Units](https://github.com/mosesestrada/organizationalunits)
   - [Create a user in Active Directory](https://github.com/mosesestrada/useraccounts)
