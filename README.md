@@ -9,8 +9,9 @@
   - [Creating Organizational Units](https://github.com/mosesestrada/organizationalunits)
   - [Create a user in Active Directory](https://github.com/mosesestrada/useraccounts)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/mosesestrada/Configuring-On-premises-Active-Directory-within-Azure-VMs)
-
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/mosesestrada/Configuring-On-premises-Active-Directory-within-Azure-VMs) 
+- <b>Networking</b>
+ - [Creating Organizational Units](https://github.com/mosesestrada/ipexclusion)
 <h2>🤳Connect with me:</h2>
 
 
