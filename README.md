@@ -11,7 +11,7 @@
 
 - <b>Hybrid Administration</b>
   - [Create a Virtual Machine in Hyper-V](https://github.com/mosesestrada/Virtualmachine)
-  - [Create a Virtual Switch in Hyper-V](https://github.com/mosesestrada/virtualswitches)
+  - [Create a Virtual Switch in Hyper-V](https://github.com/mosesestrada/virtualswitch)
   - [Create a DHCP exclusion scope](https://github.com/mosesestrada/ipexclusion)
   - [Create a DHCP reservation](https://github.com/mosesestrada/ipreservation)
   - [Create a DHCP relay](https://github.com/mosesestrada/dhcprelay)
