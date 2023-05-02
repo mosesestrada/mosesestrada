@@ -1,6 +1,6 @@
 <h1>Hi, I'm Moses, an <a href="https://burgerking.com">IT Professional</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Information Technology Tutorials:</h2>
 
 - <b>Windows Installation and Configuration</b>
   - [Create a Raid Array](https://github.com/mosesestrada/RaidArray)
