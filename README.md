@@ -6,7 +6,7 @@
   - [Create a Raid Array](https://github.com/mosesestrada/RaidArray)
 - <b>Active Directory</b>
   - [Creating Organizational Units](https://github.com/mosesestrada/organizationalunits)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/mosesestrada/osTicket-LifeCycle-Examples)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/mosesestrada/useraccounts)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/mosesestrada/Configuring-On-premises-Active-Directory-within-Azure-VMs)
 
