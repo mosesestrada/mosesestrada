@@ -9,7 +9,7 @@
   - [Creating Organizational Units](https://github.com/mosesestrada/organizationalunits)
   - [Create a user in Active Directory](https://github.com/mosesestrada/useraccounts)
 
-- <b>Hybrid Administration</b>
+- <b>Windows Hybrid Administration</b>
   - [Create a Virtual Machine in Hyper-V](https://github.com/mosesestrada/Virtualmachine)
   - [Create a Virtual Switch in Hyper-V](https://github.com/mosesestrada/virtualswitch)
   - [Create a DHCP exclusion scope](https://github.com/mosesestrada/ipexclusion)
