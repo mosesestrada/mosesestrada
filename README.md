@@ -12,6 +12,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/mosesestrada/Configuring-On-premises-Active-Directory-within-Azure-VMs) 
 - <b>Networking</b>
   - [Create a DHCP exclusion scope](https://github.com/mosesestrada/ipexclusion)
+  - [Create a DHCP reservation](https://github.com/mosesestrada/ipreservation)
 <h2>🤳Connect with me:</h2>
 
 
