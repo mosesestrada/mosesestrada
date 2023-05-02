@@ -10,9 +10,11 @@
   - [Create a user in Active Directory](https://github.com/mosesestrada/useraccounts)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/mosesestrada/Configuring-On-premises-Active-Directory-within-Azure-VMs) 
-- <b>Networking</b>
+- <b>Hybrid Administration</b>
   - [Create a DHCP exclusion scope](https://github.com/mosesestrada/ipexclusion)
   - [Create a DHCP reservation](https://github.com/mosesestrada/ipreservation)
+  - [Create a DHCP relay](https://github.com/mosesestrada/dhcprelay)
+  
 <h2>🤳Connect with me:</h2>
 
 
