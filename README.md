@@ -1,6 +1,6 @@
-<h1>Hi, I'm Moses, an <a href="https://burgerking.com">IT Professional</a>☺</h1>
+<h1>Hi, I'm Moses, an <a href="https://burgerking.com">IT Professional</a>😎</h1>
 
-<h2>👨‍💻 E-Z Information Technology Tutorials:</h2>
+<h2>💻E-Z Information Technology Tutorials:</h2>
 
 - <b>Windows System Configuration and Maintenance</b>
   - [Daily Disk Backups in Windows](https://github.com/mosesestrada/backup)
@@ -22,7 +22,7 @@
   - [Create a DHCP reservation](https://github.com/mosesestrada/ipreservation)
   - [Create a DHCP relay](https://github.com/mosesestrada/dhcprelay)
   
-<h2>🤳Connect with me:</h2>
+<h2>🚨Connect with me:🚨</h2>
 
 
 [<img align="left" alt="mosesestrada | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
