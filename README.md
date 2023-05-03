@@ -5,6 +5,7 @@
 - <b>Windows System Configuration and Maintenance</b>
   - [Daily Disk Backups in Windows](https://github.com/mosesestrada/backup)
   - [Create a Raid Array](https://github.com/mosesestrada/RaidArray)
+  - [Assign File Permissions](https://github.com/mosesestrada/filepermissions)
   - [Encrypt a Folder](https://github.com/mosesestrada/fileencrypt)
   - [Enable BitLocker](https://github.com/mosesestrada/BitLocker)
   
