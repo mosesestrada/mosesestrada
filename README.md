@@ -1,6 +1,6 @@
 <h1>Hi, I'm Moses, an <a href="https://burgerking.com">IT Professional</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Tutorials:</h2>
+<h2>👨‍💻 E-Z Information Technology Tutorials:</h2>
 
 - <b>Windows System Configuration and Maintenance</b>
   - [Daily Disk Backups in Windows](https://github.com/mosesestrada/backup)
