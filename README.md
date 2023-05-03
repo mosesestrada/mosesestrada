@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Tutorials:</h2>
 
 - <b>Windows System Configuration and Maintenance</b>
-  - [Daily Data Backups in Windows](https://github.com/mosesestrada/backup)
+  - [Daily Disk Backups in Windows](https://github.com/mosesestrada/backup)
   - [Create a Raid Array](https://github.com/mosesestrada/RaidArray)
   - [Encrypt a Folder](https://github.com/mosesestrada/fileencrypt)
   - [Enable BitLocker](https://github.com/mosesestrada/BitLocker)
