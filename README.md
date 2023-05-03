@@ -6,8 +6,8 @@
   - [Daily Disk Backups in Windows](https://github.com/mosesestrada/backup)
   - [Assign File Permissions](https://github.com/mosesestrada/filepermissions)
   - [Create a Raid Array](https://github.com/mosesestrada/RaidArray)
-  - [Encrypt a Folder](https://github.com/mosesestrada/fileencrypt)
   - [Enable BitLocker](https://github.com/mosesestrada/BitLocker)
+  - [Encrypt a Folder](https://github.com/mosesestrada/fileencrypt)
   
 - <b>Administration & Active Directory</b>
   - [Create a user in Active Directory](https://github.com/mosesestrada/useraccounts)
@@ -17,9 +17,9 @@
 - <b>Virtualization and Networking Essentials</b>
   - [Create a Virtual Machine in Hyper-V](https://github.com/mosesestrada/Virtualmachine)
   - [Create a Virtual Switch in Hyper-V](https://github.com/mosesestrada/virtualswitch)
-  - [Configure NIC Teaming](https://github.com/mosesestrada/nicteaming)
   - [Create a DHCP exclusion scope](https://github.com/mosesestrada/ipexclusion)
   - [Create a DHCP reservation](https://github.com/mosesestrada/ipreservation)
+  - [Configure NIC Teaming](https://github.com/mosesestrada/nicteaming)
   - [Create a DHCP relay](https://github.com/mosesestrada/dhcprelay)
   
 <h2>🚨Connect with me:🚨</h2>
