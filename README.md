@@ -4,7 +4,7 @@
 
 - <b>Windows Installation and Configuration</b>
   - [Create a Raid Array](https://github.com/mosesestrada/RaidArray)
-  - [Encrypt a Folder](https://github.com/fileencrypt)
+  - [Encrypt a Folder](https://github.com/mosesestrada/fileencrypt)
   
 - <b>Active Directory</b>
   - [Creating Organizational Units](https://github.com/mosesestrada/organizationalunits)
