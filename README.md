@@ -10,8 +10,9 @@
   - [Enable BitLocker](https://github.com/mosesestrada/BitLocker)
   
 - <b>Administration & Active Directory</b>
-  - [Creating Organizational Units](https://github.com/mosesestrada/organizationalunits)
   - [Create a user in Active Directory](https://github.com/mosesestrada/useraccounts)
+  - [Creating Organizational Units](https://github.com/mosesestrada/organizationalunits)
+  
 
 - <b>Virtualization and Networking Essentials</b>
   - [Create a Virtual Machine in Hyper-V](https://github.com/mosesestrada/Virtualmachine)
