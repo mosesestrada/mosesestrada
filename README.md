@@ -2,16 +2,16 @@
 
 <h2>👨‍💻 Information Technology Tutorials:</h2>
 
-- <b>Windows Installation and Configuration</b>
+- <b>Windows System Configuration and Maintenance</b>
   - [Create a Raid Array](https://github.com/mosesestrada/RaidArray)
   - [Encrypt a Folder](https://github.com/mosesestrada/fileencrypt)
   - [Enable BitLocker](https://github.com/mosesestrada/BitLocker)
   
-- <b>Active Directory</b>
+- <b>Administration & Active Directory</b>
   - [Creating Organizational Units](https://github.com/mosesestrada/organizationalunits)
   - [Create a user in Active Directory](https://github.com/mosesestrada/useraccounts)
 
-- <b>Windows Hybrid Administration</b>
+- <b>Virtualization and Networking Essentials</b>
   - [Create a Virtual Machine in Hyper-V](https://github.com/mosesestrada/Virtualmachine)
   - [Create a Virtual Switch in Hyper-V](https://github.com/mosesestrada/virtualswitch)
   - [Create a DHCP exclusion scope](https://github.com/mosesestrada/ipexclusion)
