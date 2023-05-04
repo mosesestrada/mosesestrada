@@ -1,4 +1,4 @@
-<h1>Hi, I'm Moses, an <a href="https://burgerking.com">IT Professional</a>😎</h1>
+<h1>Hi, I'm Moses, an <a href="https://www.linkedin.com/in/mosesestrada00/">IT Professional</a>😎</h1>
 
 <h2>💻E-Z Information Technology Tutorials:</h2>
 
@@ -29,7 +29,7 @@
 
 
 
-[linkedin]: https://www.burgerking.com
+[linkedin]: https://www.linkedin.com/in/mosesestrada00/
 
 <!--
 
