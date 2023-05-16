@@ -15,8 +15,6 @@
   - [Creating Organizational Units](https://github.com/mosesestrada/organizationalunits)
   - [Manage Account Policies](https://github.com/mosesestrada/localsecuritypolicy)
   
-  - <b>Microsoft 365</b>
-  - [Create a flyer in Word](https://github.com/mosesestrada/flyercreation)
 
 - <b>Virtualization and Networking Essentials</b>
   - [Create a Virtual Machine in Hyper-V](https://github.com/mosesestrada/Virtualmachine)
@@ -28,6 +26,9 @@
   - [Configure NIC Teaming](https://github.com/mosesestrada/nicteaming)
   - [Create a DHCP relay](https://github.com/mosesestrada/dhcprelay)
   
+- <b>Microsoft 365</b>
+  - [Create a flyer in Word](https://github.com/mosesestrada/flyercreation)
+
 <h2>🚨Connect with me:🚨</h2>
 
 
