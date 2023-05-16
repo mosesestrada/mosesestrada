@@ -12,8 +12,8 @@
   
 - <b>Administration & Active Directory</b>
   - [Create a user in Active Directory](https://github.com/mosesestrada/useraccounts)
-  - [Manage Account Policies](https://github.com/mosesestrada/localsecuritypolicy)
   - [Creating Organizational Units](https://github.com/mosesestrada/organizationalunits)
+  - [Manage Account Policies](https://github.com/mosesestrada/localsecuritypolicy)
   
 
 - <b>Virtualization and Networking Essentials</b>
