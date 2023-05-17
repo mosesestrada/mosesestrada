@@ -28,6 +28,7 @@
   - [Create a DHCP relay](https://github.com/mosesestrada/dhcprelay)
   
 - <b>Microsoft 365</b>
+  - [Text Wrapping in Word](https://github.com/mosesestrada/textwrap)
   - [Create a flyer in Word](https://github.com/mosesestrada/flyercreation)
 
 <h2>🚨Connect with me:🚨</h2>
