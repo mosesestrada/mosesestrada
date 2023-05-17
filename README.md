@@ -28,6 +28,7 @@
   - [Create a DHCP relay](https://github.com/mosesestrada/dhcprelay)
   
 - <b>Microsoft 365</b>
+  - [Text Reveal Effect in PowerPoint](https://github.com/mosesestrada/textreveal)
   - [Text Wrapping in Word](https://github.com/mosesestrada/textwrap)
   - [Create a flyer in Word](https://github.com/mosesestrada/flyercreation)
 
