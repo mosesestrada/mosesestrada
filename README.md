@@ -4,6 +4,7 @@
 
 - <b>Windows System Configuration and Maintenance</b>
   - [Daily Disk Backups in Windows](https://github.com/mosesestrada/backup)
+  - [Create a Windows System Restore Point](https://github.com/mosesestrada/systemrestore)
   - [Storage Spaces in Windows](https://github.com/mosesestrada/storagespaces)
   - [Assign File Permissions](https://github.com/mosesestrada/filepermissions)
   - [Create a Raid Array](https://github.com/mosesestrada/RaidArray)
