@@ -29,7 +29,7 @@
   
 - <b>Microsoft 365</b>
   - [Text Reveal Effect in PowerPoint](https://github.com/mosesestrada/textreveal)
-  - [Text Wrapping in Word](https://github.com/mosesestrada/textwrap)
+  - [Text Wrapping tool in Word](https://github.com/mosesestrada/textwrap)
   - [Create 3D text in Word](https://github.com/mosesestrada/3dtext)
   - [Create a flyer in Word](https://github.com/mosesestrada/flyercreation)
   
