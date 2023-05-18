@@ -31,6 +31,7 @@
   - [Text Reveal Effect in PowerPoint](https://github.com/mosesestrada/textreveal)
   - [Text Wrapping in Word](https://github.com/mosesestrada/textwrap)
   - [Create a flyer in Word](https://github.com/mosesestrada/flyercreation)
+  - [Create 3D text in Word](https://github.com/mosesestrada/3dtext)
 
 <h2>🚨Connect with me:🚨</h2>
 
