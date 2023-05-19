@@ -20,8 +20,8 @@
 
 - <b>Virtualization and Networking Essentials</b>
   - [Create a Virtual Machine in Hyper-V](https://github.com/mosesestrada/Virtualmachine)
-  - [Connect to a Network using a VPN](https://github.com/mosesestrada/connectvpn)
   - [Configure & Secure a Home Router](https://github.com/mosesestrada/homerouter)
+  - [Connect to a Network using a VPN](https://github.com/mosesestrada/connectvpn)
   - [Create a Virtual Switch in Hyper-V](https://github.com/mosesestrada/virtualswitch)
   - [Create a DHCP Exclusion Scope](https://github.com/mosesestrada/ipexclusion)
   - [Create a DHCP Reservation](https://github.com/mosesestrada/ipreservation)
