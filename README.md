@@ -32,7 +32,7 @@
   - [Text Reveal Effect in PowerPoint](https://github.com/mosesestrada/textreveal)
   - [Text Wrapping tool in Word](https://github.com/mosesestrada/textwrap)
   - [Create 3D text in Word](https://github.com/mosesestrada/3dtext)
-  - [Create a flyer in Word](https://github.com/mosesestrada/flyercreation)
+  - [Create a Flyer in Word](https://github.com/mosesestrada/flyercreation)
   
 
 <h2>🚨Connect with me:🚨</h2>
