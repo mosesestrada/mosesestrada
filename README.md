@@ -13,7 +13,7 @@
   - [Encrypt a Folder](https://github.com/mosesestrada/fileencrypt)
   
 - <b>Administration & Active Directory</b>
-  - [Create a user in Active Directory](https://github.com/mosesestrada/useraccounts)
+  - [Create a User in Active Directory](https://github.com/mosesestrada/useraccounts)
   - [Creating Organizational Units](https://github.com/mosesestrada/organizationalunits)
   - [Manage Account Policies](https://github.com/mosesestrada/localsecuritypolicy)
   
