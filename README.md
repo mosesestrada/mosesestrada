@@ -21,12 +21,12 @@
 - <b>Virtualization and Networking Essentials</b>
   - [Create a Virtual Machine in Hyper-V](https://github.com/mosesestrada/Virtualmachine)
   - [Connect to a Network using a VPN](https://github.com/mosesestrada/connectvpn)
-  - [Configure & Secure a home router](https://github.com/mosesestrada/homerouter)
+  - [Configure & Secure a Home Router](https://github.com/mosesestrada/homerouter)
   - [Create a Virtual Switch in Hyper-V](https://github.com/mosesestrada/virtualswitch)
   - [Create a DHCP exclusion scope](https://github.com/mosesestrada/ipexclusion)
   - [Create a DHCP reservation](https://github.com/mosesestrada/ipreservation)
   - [Configure NIC Teaming](https://github.com/mosesestrada/nicteaming)
-  - [Create a DHCP relay](https://github.com/mosesestrada/dhcprelay)
+  - [Create a DHCP Relay](https://github.com/mosesestrada/dhcprelay)
   
 - <b>Microsoft 365</b>
   - [Text Reveal Effect in PowerPoint](https://github.com/mosesestrada/textreveal)
