@@ -23,8 +23,8 @@
   - [Connect to a Network using a VPN](https://github.com/mosesestrada/connectvpn)
   - [Configure & Secure a Home Router](https://github.com/mosesestrada/homerouter)
   - [Create a Virtual Switch in Hyper-V](https://github.com/mosesestrada/virtualswitch)
-  - [Create a DHCP exclusion scope](https://github.com/mosesestrada/ipexclusion)
-  - [Create a DHCP reservation](https://github.com/mosesestrada/ipreservation)
+  - [Create a DHCP Exclusion Scope](https://github.com/mosesestrada/ipexclusion)
+  - [Create a DHCP Reservation](https://github.com/mosesestrada/ipreservation)
   - [Configure NIC Teaming](https://github.com/mosesestrada/nicteaming)
   - [Create a DHCP Relay](https://github.com/mosesestrada/dhcprelay)
   
