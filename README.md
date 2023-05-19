@@ -3,7 +3,7 @@
 <h2>💻E-Z Information Technology Tutorials:</h2>
 
 - <b>Windows System Configuration and Maintenance</b>
-  - [PXE Workstation Image Installation (Tech Resolve Ticket)](https://github.com/mosesestrada/pxeinstall)
+  - [PXE Windows Image Installation (Tech Resolve Ticket)](https://github.com/mosesestrada/pxeinstall)
   - [Create a Windows System Restore Point](https://github.com/mosesestrada/restorepoint)
   - [Daily Disk Backups in Windows](https://github.com/mosesestrada/backup)
   - [Storage Spaces in Windows](https://github.com/mosesestrada/storagespaces)
