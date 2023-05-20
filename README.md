@@ -1,6 +1,6 @@
 <h1>Hi, I'm Moses, an <a href="https://www.linkedin.com/in/mosesestrada00/">IT Professional</a>😎</h1>
 
-<h2>💻E-Z Information Technology Tutorials:</h2>
+<h2>💻 Information Technology Tutorials:</h2>
 
 - <b>Windows System Configuration and Maintenance</b>
   - [PXE Windows Image Installation (Tech Resolve Ticket)](https://github.com/mosesestrada/pxeinstall)
