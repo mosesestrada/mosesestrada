@@ -28,7 +28,7 @@
   - [Configure NIC Teaming](https://github.com/mosesestrada/nicteaming)
   - [Create a DHCP Relay](https://github.com/mosesestrada/dhcprelay)
   
-- <b>Microsoft 365</b>
+- <b>Design in Microsoft 365</b>
   - [Text Reveal Effect in PowerPoint](https://github.com/mosesestrada/textreveal)
   - [Text Wrapping tool in Word](https://github.com/mosesestrada/textwrap)
   - [Create 3D text in Word](https://github.com/mosesestrada/3dtext)
